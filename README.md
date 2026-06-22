@@ -1,5 +1,5 @@
 # probando-git
 Bienvenidas chicas.
-me llamo valentina
+Me llamo Valentina
 
 Me llamo Belén
